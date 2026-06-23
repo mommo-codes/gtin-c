@@ -9,4 +9,7 @@
 
  void clean_gtin(const char *input, char *output);
 
+/* Compute the GS1 Mod-10 check digit for a digit string. Returns the digit char. */
+char compute_check_digit(const char *gtin13);
+
  #endif /* GTIN_H */
