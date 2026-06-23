@@ -1,0 +1,9 @@
+# compiled binary
+gtin
+
+# macOS junk
+.DS_Store
+
+# object files / debug symbols
+*.o
+*.dSYM/
