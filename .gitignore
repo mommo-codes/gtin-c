@@ -7,3 +7,8 @@ gtin
 # object files / debug symbols
 *.o
 *.dSYM/
+
+test_gtin
+gen_gtins
+stress_test
+gtins.txt
